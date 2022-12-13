@@ -20,7 +20,6 @@
 
 [Curso em Video](https://www.cursoemvideo.com/)
 
-#investimento
 ## Investimento
 [WeImpact](https://www.weimpact.tech/)
 
