@@ -12,6 +12,8 @@
 
 #Cursos
 
+[Curso em Video](https://www.cursoemvideo.com/)
+
 #investimento
 [WeImpact](https://www.weimpact.tech/)
 Investimos capital estratégico e financeiro em startups lideradas por mulheres,
